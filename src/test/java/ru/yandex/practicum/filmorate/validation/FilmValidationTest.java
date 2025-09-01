@@ -1,4 +1,4 @@
-package ru.yandex.practicum.filmorate.validation.FilmValidationTest.java;
+package ru.yandex.practicum.filmorate.validation;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

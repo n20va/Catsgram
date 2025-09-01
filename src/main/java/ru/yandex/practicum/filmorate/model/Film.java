@@ -3,9 +3,9 @@ package ru.yandex.practicum.filmorate.model;
 import lombok.Builder;
 import lombok.Data;
 
-import javac.validation.constraints.NotBlank;
-import javac.validation.constraints.Size;
-import javac.validation.constraints.Positive;
+import javax.validation.constraints.NotBlank;
+import javax.validation.constraints.Size;
+import javax.validation.constraints.Positive;
 import java.time.LocalDate;
 
 @Data
